@@ -1,6 +1,6 @@
 # Hi, I'm Mnelisi 👋
 
-### Web Developer · Technology Innovator · Systems & Software Developer
+### Web Developer · Technology Innovator · AI Builder · Systems & Software Developer
 
 I’m a self-taught Web, System, and Software Developer and technology innovator focused on building practical, reliable applications. I volunteer as a Web Developer at **AEC Mbabane** and am developing my skills in full-stack engineering, authentication, database systems, API design, software architecture, and AI integration.
 
